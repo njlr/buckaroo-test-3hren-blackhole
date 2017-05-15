@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-3hren-blackhole",
+  "dependencies": {
+    "3hren/blackhole": "1.6.0",
+    "google/gtest": "1.8.0"
+  }
+}
